@@ -1,6 +1,7 @@
 Nel panorama sempre più interconnesso e tecnologico di oggi, la sicurezza delle nostre case e degli ambienti di lavoro diventa sempre più importante. Per affrontare questa sfida, sono emerse soluzioni innovative che combinano l'elettronica avanzata e la connettività Internet per offrire sistemi di allarme efficaci e intelligenti.
 
 Il sistema di allarme basato su ESP32 rappresenta un'eccellente sintesi di queste tecnologie all'avanguardia. Utilizzando il potente microcontrollore ESP32, noto per la sua versatilità e le sue capacità di connettività, questo sistema offre una protezione affidabile e personalizzabile per una vasta gamma di applicazioni.
+![foto3](https://github.com/EmmanuelTorchio/sistema-antifurto-basato-su-esp32/assets/148069526/e812f193-af58-48c5-be6d-03cb149e4b80)
 
 Caratteristiche principali del sistema di allarme ESP32:
 
@@ -15,6 +16,7 @@ Sicurezza aziendale: Monitoraggio e protezione di uffici, magazzini e locali com
 Sicurezza industriale: Sorveglianza e allarme per siti industriali e fabbriche.
 Monitoraggio ambientale: Rilevamento e segnalazione di incendi, fughe di gas o inondazioni.
 In sintesi, il sistema di allarme basato su ESP32 rappresenta una soluzione sofisticata e affidabile per le esigenze di sicurezza moderne, offrendo una protezione completa e personalizzabile con un'ampia gamma di funzionalità avanzate.
+
 
 
 
