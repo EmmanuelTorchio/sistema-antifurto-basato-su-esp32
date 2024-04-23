@@ -2,13 +2,16 @@
 #include <AsyncTCP.h>
 #include <ESPAsyncWebServer.h>
 
-const char* ssid = "Vodafone-EAksGUM2r";
-const char* password = "Y1gs%n5LY9t8nRPr2Vx7fCYxYl";
+const char* ssid = "INSERISCI LA TUA SSID DEL TOU ROUTER";
+const char* password = "INSERISCI LA TUA PASSWORD DEL ROUTER";
 const int pirPin = 13;
 const int relay1Pin = 12;
 const int relay2Pin = 14;
 const int relay3Pin = 27;
 const int alarmSwitchPin = 4;
+#HAI LA LIBERTA DI MODIFICARE I PIN A TUA SCELTA 
+
+
 
 unsigned long startTime = 0;
 const unsigned long activationDuration = 10000;
